@@ -61,10 +61,10 @@ Modify parameters (e.g., mixture proportions, means, standard deviations) in the
 - Contributions and feedback are welcome.
 > ⚠️ This repository includes academic work completed as part of coursework at Philipps-Universität Marburg. All code is original and shared for educational and demonstration purposes only.
 
-# Contact
-
-For questions or feedback, please reach out to:
+## 🙋‍♂️ About Me
 
 Chaitrika Mohan Bhat<br>
-chaitrikambhat@gmail.com
+Feel free to connect or reach out:
+- [LinkedIn](https://www.linkedin.com/in/chaitrika-m-bhat/)
+- [Email](chaitrikambhat@gmail.com)
 
